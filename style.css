@@ -1,20 +1,39 @@
 <style>
+        body{background-color: darkgrey;}
+    #aba{
 
-#xyz{
-    text-align: center;
-    font-size: 23pt;
-    color: rgb(17, 16, 16);    
-    border: 5px solid lightsalmon;
-    background-color: lightpink;
-    border-width: 40px;
+        text-align: center;
+        color: rgb(41, 41, 41);
+        background-color: rgb(247, 221, 230);
+        border: 12px solid rgb(109, 109, 109);
+        border-radius: 4px;
+        border-width: 5mm;
+        margin: -2px 500px 0px 500px;
+        
+    }
+
+    #h1{
+        text-align: center;
+        font-size: 23pt;
+        color: rgb(17, 16, 16);    
+        border: 5px solid lightsalmon;
+        background-color: lightpink;
+        border-width: 40px;
+        }
     
-    }
-#abc{
-    color: brown;
-    background-color: lightcyan;
-    border: 10px solid lightslategrey;
-    border-radius: 10px;
-    padding: 5%;
-    }
+    #abc{
+        color: brown;
+        background-color: lightcyan;
+        border: 10px solid lightslategrey;
+        border-radius: 10px;
+        padding: 15px 20px 15px 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: larger;
+        }
 
-</style>
+    #hoyna{
+            position:relative;
+            left: 30%;
+    
+        }
+    </style>
